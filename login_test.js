@@ -1,7 +1,7 @@
 Feature('login');
 
 Scenario('Login com sucesso',  ({ I }) => {
-    I.amOnPage('');
+    I.amOnPage('https://automationpratice.com.br/');
     I.click('Login')
     I.see('Login')
     I.fillField('#user', 'juliana@teste.com')
