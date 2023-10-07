@@ -1,3 +1,3 @@
 ## Projeto de Automação Web
-CodeceptJS + JS
+CodeceptJS
 Site utilizado: https://automationpratice.com.br/
